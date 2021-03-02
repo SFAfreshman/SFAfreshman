@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Java,JS,Python ...
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sfaFreshman&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sfaFreshman&show_icons=true&theme=radical&count_private=true)
 
 
 
